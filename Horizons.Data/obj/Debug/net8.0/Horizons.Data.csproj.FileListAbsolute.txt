@@ -1,0 +1,15 @@
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/bin/Debug/net8.0/Horizons.Data.deps.json
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/bin/Debug/net8.0/Horizons.Data.runtimeconfig.json
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/bin/Debug/net8.0/Horizons.Data.dll
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/bin/Debug/net8.0/Horizons.Data.pdb
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.csproj.AssemblyReference.cache
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.AssemblyInfoInputs.cache
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.AssemblyInfo.cs
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.csproj.CoreCompileInputs.cache
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.sourcelink.json
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.dll
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/refint/Horizons.Data.dll
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.pdb
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/Horizons.Data.genruntimeconfig.cache
+/Users/pavelsyarov/Desktop/Exam/SEDO-Regular-Exam-2-psyarov/Horizons.Data/obj/Debug/net8.0/ref/Horizons.Data.dll
